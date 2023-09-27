@@ -1,0 +1,47 @@
+.post-card h1 {
+  color: #ffffff;
+}
+
+h1 {
+  color: #ffffff;
+}
+
+.home {
+  margin: 0 auto;
+  width: 750px;
+}
+
+.intro {
+  /* float: left; */
+  /* padding: 1rem; */
+  margin-top: 3rem;
+}
+
+.intro h1 {
+  font-size: xx-large;
+}
+
+svg {
+  transform: scale(1.5);
+}
+
+.navbar {
+  height: 50px;
+  width: 100%;
+  margin-top: 1rem;
+  display: flex;
+  align-items: center;
+  column-gap: 10px;
+}
+
+a:visited,
+a {
+  color: white;
+}
+
+.post-card {
+  background-color: #13141c;
+  padding: 10px;
+  border-radius: 10px;
+  width: 50%;
+}
